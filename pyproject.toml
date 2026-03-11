@@ -4,6 +4,7 @@ version = "0.1.0"
 requires-python = ">=3.11"
 dependencies = [
     "insperautograder",
+    "ipywidgets>=7.8.5",
     "mysql-connector-python==8.3.0",
     "pandas>=2.3",
     "python-dotenv>=1.1",
